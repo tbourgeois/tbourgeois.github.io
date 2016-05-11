@@ -1,7 +1,7 @@
 h1{
   color:violet;
 }
-p{
+ul{
   color:indigo;
 }
 img{
@@ -9,4 +9,7 @@ img{
   height: 30%;
   border: 4px solid blue; 
   border-radius: 10px;
+}
+body{
+  font: arial;
 }
