@@ -1,6 +1,12 @@
 h1{
   color:violet;
 }
-ul{
+p{
   color:indigo;
+}
+img{
+  width: 25%;
+  height: 30%;
+  border: 4px solid blue; 
+  border-radius: 10px;
 }
