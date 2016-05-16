@@ -7,6 +7,7 @@ ul{
   font-style: italic;
 }
 body{
+  color: black;
   background: gray;
   background-image: url("CompSci 3.jpg");
 }
