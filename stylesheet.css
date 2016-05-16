@@ -10,11 +10,10 @@ body{
   color: black;
   background: gray;
   background-image: url("CompSci 3.jpg");
+  opacity: .7;
 }
 li{
   display:inline;
   margin-left:30px;
 }
-img{
-  opacity: .7;
-}
+
