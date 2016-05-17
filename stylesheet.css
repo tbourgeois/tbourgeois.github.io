@@ -10,8 +10,6 @@ body{
   background: #99CCFF;
 }
 h2{
-  display:inline;
-  margin-left:160px;
-  padding-left:60px;
+  display:block;
 }
 
