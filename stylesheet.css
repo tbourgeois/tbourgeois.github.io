@@ -9,8 +9,7 @@ ul{
 body{
   color: black;
   background: gray;
-  background-image: url("CompSci 3.jpg");
-  opacity: .9;
+  background-image: url("CompSci 3.jpg")
 }
 li{
   display:inline;
