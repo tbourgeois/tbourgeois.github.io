@@ -11,7 +11,7 @@ body{
   display:inline-block;
 }
 h2{
-  display:inline;
+  display:inline-block;
   padding-left:60px;
   margin-left:60px;
 }
