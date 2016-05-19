@@ -11,11 +11,13 @@ body{
   display:inline-block;
 }
 h2{
-  display:block;
+  display:inline;
   padding-left:60px;
   margin-left:60px;
 }
 img:hover{
   opacity: 0.7;
 }
-
+img{
+  display:block;
+}
