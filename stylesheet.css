@@ -15,4 +15,7 @@ h2{
   padding-left:60px;
   margin-left:60px;
 }
+img:hover{
+  opacity: 0.5;
+}
 
