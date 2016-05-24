@@ -4,7 +4,7 @@ h1{
 ul{
   color: black;
   font-style: bold;
-  font-style: arial;
+  font-style: italic;
 }
 body{
   background: #99CCFF;
@@ -31,5 +31,5 @@ p{
 aside{
   display:inline;
   margin-left: 20px;
-  font-style: bold;
+  font-style: oblique;
 }
