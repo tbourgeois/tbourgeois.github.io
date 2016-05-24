@@ -28,3 +28,8 @@ p{
   margin-left: 60px;
   padding-left: 60px;
 }
+aside{
+  display:inline;
+  margin-right: 160px;
+  font-style: arial;
+}
