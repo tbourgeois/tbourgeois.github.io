@@ -4,3 +4,4 @@ $(document).ready(function(){
     $(this).fadeOut().delay(1000).fadeIn();
   });
 })
+
