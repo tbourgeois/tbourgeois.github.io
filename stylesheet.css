@@ -16,9 +16,10 @@ h2{
   margin-left:120px;
 }
 img{
-  display:block;
+  display:inline;
   margin-left: 5px;
   width:20%;
+  
 }
 p{
   margin-left: 10px;
